@@ -5,6 +5,7 @@
 //It works in DEVC++ too, but it is more complex 'cause you need to create 2 documents xd//
 
 //Credits for Alfredo Palacios Trejo to help me with the code. Also it was used "The C PROGRAMMING LANGUAGE" and the explanation of our teacher :3//
+//I just upload an archive.png with a demonstration for HOW TO USE THE CODE IN ONLINEGBD//
 
 //There are 2 warnings at the code, but it stills working xd//
 
