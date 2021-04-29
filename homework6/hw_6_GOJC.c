@@ -196,7 +196,7 @@ int main()
                 }
                 else
                 {
-                    printf("\n !El usuario no se encuentra en nuestro sistemas\n"); ("\n The username you write is not at the system\n");
+                    printf("\n The username you write is not at the system\n");
                 }
             }
             else if (watch == 1)
