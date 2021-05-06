@@ -162,8 +162,8 @@ int hourWorked(int pin)
 int main()
 {
 	printf("                          //WELCOME TO CRACKLITOS CODE (CREDITS TO ALFREDOPALACE)//\n");
-    printf("                                 //HOW CAN YOU CHECK MY CODE? (INSTRUCTIONS XD)//\n\n\n");
-    printf("1.-Complie :v\n");
+    printf("                                 //HOW CAN YOU CHECK MY CODE? (INSTRUCTIONS )//\n\n\n");
+    printf("1.-Complie the code \n");
     printf("2.-Enter as administrator (0) as (pin: '0')\n");
     printf("3.-Add an employee\n");
     printf("4.-Close the code; then, enter as the employee you added with the pin you created it.\n"); 
