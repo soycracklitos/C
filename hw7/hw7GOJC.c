@@ -1,4 +1,4 @@
-// This code was created with help of AlfredoPalace and AbnerIO, also the C programming language and classes of satuelisa//
+// This code was created with help of AlfredoPalace, also the C programming language and classes of satuelisa//
 
                                               //RECOMENDACIONES
                                               
