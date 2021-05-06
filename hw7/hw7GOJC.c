@@ -326,7 +326,7 @@ int main()
                 scanf("%d", &option);
                 if (option == 1)
                 {
-                    printf("Adios!!\n"),
+                    printf("asta la PROXIMAAA!\n"),
                         getchar();
                     exit(1);
                 }
