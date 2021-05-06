@@ -1,3 +1,6 @@
+//Modified at 3:33- Este codigo fue creado gracias a la ayuda absoluta de Alfredo Palacios y Abner Velazquez. La calificacion que se otorgue a mi trabajo debera de
+//tener un puntaje menor, ya que no es un esfuerzo 100% mio. Agradezco la comprension de quien revise el codigo y gracias Abner y Alfredo los tqm//
+
 // This code was created with help of AlfredoPalace and AbnerIO, also the C programming language and classes of satuelisa//
 
                                               //RECOMENDACIONES
