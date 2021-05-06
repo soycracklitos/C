@@ -189,13 +189,13 @@ int main()
     size_t last;
     time_t timestamp = time(NULL);
 
-    //Get day worked
+                                                                    //Get day worked
     
     ts = localtime(&timestamp);
     last = strftime(buffer, 32, "%A", ts);
     buffer[last] = '\0';
     
-    //Get hour worked
+                                                                    //Get hour worked
     
     char hour[128];
     strftime(hour, 128, "%H:%M", tlocal);
@@ -229,7 +229,7 @@ int main()
         {
         case 1: 
         
-		//ENTERED HOUR OF THE SLAVE
+		                                                          //ENTERED HOUR OF THE SLAVE
 		
             flujo = fopen("log.txt", "a");
             printf("Your entry hour is registered SLAVE#%d today AT:%s %s\n", pin, output, buffer);
@@ -239,8 +239,8 @@ int main()
             fclose(flujo);
             break;
         case 2: 
-        
-		//LEFT HOUR OF THE SLAVE
+         
+		                                                    //LEFT HOUR OF THE SLAVE
 		
             flujo = fopen("times.txt", "r+");
             while (flag != 0)
@@ -264,7 +264,7 @@ int main()
             fflush(flujo);
             fclose(flujo);
 
-                                            // It closes "fichero1.txt". //
+                                                                  // It closes "fichero1.txt". //
                                             
             fclose(flujo);
             fprintf(flujo, "%d %d\n", pin, timeWorked(pin));
@@ -275,7 +275,7 @@ int main()
     }
     else if (option == 0) 
 	
-	//JEFE DE JEFES OPTIONS//
+	                                                              //BOSS OPTIONS//
 	
     {
         option = 0;
@@ -299,7 +299,9 @@ int main()
                 printf("3.- I want to check the hours worked by my slave\n");
                 fflush(stdin);
                 scanf("%d", &option);
-                // acciones
+		    
+		    
+                                                                           // ACTIONS OF THE SLAVE
                 switch (option)
                 {
                 case 1:
