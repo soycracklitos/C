@@ -164,7 +164,7 @@ int hourWorked(int pin)
 
 int main()
 {
-	printf("                          //WELCOME TO CRACKLITOS CODE (CREDITS TO ALFREDOPALACE)//\n");
+	printf("                          //WELCOME TO CRACKLITOS CODE (CREDITS TO ALFREDOPALACE AND ABNERIO)//\n");
     printf("                                 //HOW CAN YOU CHECK MY CODE? (INSTRUCTIONS )//\n\n\n");
     printf("1.-Complie the code \n");
     printf("2.-Enter as administrator (0) as (pin: '0')\n");
