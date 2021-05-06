@@ -161,10 +161,10 @@ int hourWorked(int pin)
 
 int main()
 {
-	printf("                          //WELCOME TO CRACKLITOS CODE (CREDITS TO ABNERIO AND ALFREDOPALACE)//\n");
+	printf("                          //WELCOME TO CRACKLITOS CODE (CREDITS TO ALFREDOPALACE)//\n");
     printf("                                 //HOW CAN YOU CHECK MY CODE? (INSTRUCTIONS XD)//\n\n\n");
     printf("1.-Complie :v\n");
-    printf("2.-Enter as administrator as (pin: '0')\n");
+    printf("2.-Enter as administrator (0) as (pin: '0')\n");
     printf("3.-Add an employee\n");
     printf("4.-Close the code; then, enter as the employee you added with the pin you created it.\n"); 
     printf("5.-Register your entry hour\n");
@@ -172,8 +172,7 @@ int main()
     printf("7.-Open the code again in administrator mode (pin '0')\n\n\n");
 	printf("                             Now, you can verify the data of any employee, etc.\n"); 
 	printf("\n                                                 *PLEASE READ THIS*:\n\n");
-	printf("                   If the compiler set a warning, bug or something like that, just close the code :v.\n");
-	printf("                        all the data would be at the .txt docs. Yup, the code is nto perfect u.u\n");
+	printf("                        all the data would be at the .txt docs.\n");
 	printf("____________________________________________________________________________________________________________________\n\n");
 	FILE *flujo;
 	
