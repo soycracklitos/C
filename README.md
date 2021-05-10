@@ -1,1 +1,1 @@
-si
+senkiu prime #navi
