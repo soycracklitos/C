@@ -1,6 +1,6 @@
 # Agenda de Eventos San Jorge
 
-### Code for test in GBD: https://onlinegdb.com/TGaqJMNMX
+
 
 ### What is the purpose of the code?
 
@@ -15,7 +15,8 @@ A close saloon and an exterior with a pool
 
 ### How i implemante the code?
 
-# URL of demonstration
+# Test code in GBD
+ -https://onlinegdb.com/TGaqJMNMX
 
 # User Interface
 
