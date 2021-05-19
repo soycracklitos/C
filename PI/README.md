@@ -20,8 +20,10 @@ A close saloon and an exterior with a pool
 
 # User Interface
   -Reserving date at 'Exterior'
-![image](https://user-images.githubusercontent.com/78566347/118740608-e9b77000-b811-11eb-970e-e29b35ac1845.png)
+  ![image](https://user-images.githubusercontent.com/78566347/118740855-7eba6900-b812-11eb-9bd8-0c01d7e7e62e.png)
   -Reserving date at 'Interior'
+  ![image](https://user-images.githubusercontent.com/78566347/118740794-57fc3280-b812-11eb-960f-2b6544a5cf52.png)
+
 
   
   # References
