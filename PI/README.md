@@ -17,6 +17,17 @@ This program will book reservations in an event hall divided in two sections: â€
 3. Eliminate dates reserved
      -The "date" list is used for this function. If an event is cancelled or the client do not pay on time, the program enables the option to eliminate a booked date. This function would ask for the specific line referred to the event going to removed it.
 
+## Instructions for the code
+
+
+
+
+
+### Libraries used
+![image](https://user-images.githubusercontent.com/78566347/118844325-7b65c280-b890-11eb-9922-5d30c52b3363.png)
+
+
+
 ## Youtube link :film_strip:
 -[YoutubeVideo](https://www.youtube.com/watch?v=9L2XGn1fh5o)
 
