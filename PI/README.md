@@ -19,12 +19,16 @@ A close saloon and an exterior with a pool
  -https://onlinegdb.com/TGaqJMNMX
 
 # User Interface
-  -Reserving date at 'Exterior'
-  ![image](https://user-images.githubusercontent.com/78566347/118740855-7eba6900-b812-11eb-9bd8-0c01d7e7e62e.png)
-  -Reserving date at 'Interior'
-  ![image](https://user-images.githubusercontent.com/78566347/118740794-57fc3280-b812-11eb-960f-2b6544a5cf52.png)
-  -Dates reserved and how-to eliminate a reserved date
-   ![image](https://user-images.githubusercontent.com/78566347/118745819-a6aeca00-b81c-11eb-90ed-c64a6c90a10e.png)
+
+-Main interface
+![image](https://user-images.githubusercontent.com/78566347/118746052-18871380-b81d-11eb-927b-207d51f4f18d.png)
+-Options to add an event
+  ![image](https://user-images.githubusercontent.com/78566347/118746187-5be18200-b81d-11eb-878b-cb3a27c99171.png)
+-Options to eliminate a date
+  ![image](https://user-images.githubusercontent.com/78566347/118746234-74ea3300-b81d-11eb-8f2f-afa7737c37a1.png)
+
+
+
   
   # References
   
