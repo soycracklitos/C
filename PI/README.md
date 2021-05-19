@@ -1,4 +1,4 @@
-#  🟨Agenda de Eventos San Jorge🟦
+#  🟨Event hall "San Jorge"🟦
 
 As my Final Assignment, I have decided to create a code for the family business. My parents do not use technology to improve their productivity, so I think this is a good gift to them, as well as to introduce them to use this type of programs. 
 This code is going to be used for an event hall divided in two sections: “Exterior con alberca” and “Interior”. The purpose of the code is to save in a ‘.txt’ file data such as the reservation date, client profile and hired services. There is going be and option to save information depending on which zone the event will take place.
