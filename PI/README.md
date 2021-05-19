@@ -1,6 +1,6 @@
 # Agenda de Eventos San Jorge
 
-## Code for test in GBD: https://onlinegdb.com/TGaqJMNMX
+### Code for test in GBD: https://onlinegdb.com/TGaqJMNMX
 
 ### What is the purpose of the code?
 
