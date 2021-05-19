@@ -18,7 +18,7 @@ This code is going to be used for an event hall divided in two sections: “Exte
      -The "date" list is used for this function. If an event is cancelled or the client did not pay on time, it can be possible to eliminate a booked date. This function would ask for the specific line referred to the event to eliminate it. 
 
 ## Youtube link :film_strip:
--[YoutubeVideo](https://www.youtube.com/watch?v=YwSq-QLQoIo)
+-[YoutubeVideo](https://www.youtube.com/watch?v=9L2XGn1fh5o)
 
 ## Test code 🖥️
  -[OnlineGBD](https://onlinegdb.com/TGaqJMNMX)
