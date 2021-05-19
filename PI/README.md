@@ -1,21 +1,21 @@
 #  🟨Event hall "San Jorge"🟦
 
-As my Final Assignment, I have decided to create a code for the family business. My parents do not use technology to improve their productivity, so I think this is a good gift to them, as well as to introduce them to use this type of programs. 
-This code is going to be used for an event hall divided in two sections: “Exterior con alberca” and “Interior”. The purpose of the code is to save in a ‘.txt’ file data such as the reservation date, client profile and hired services. There is going be and option to save information depending on which zone the event will take place.
+As my Final Assignment, I decided to create a code for the family business. My parents do not use technology to enhace productivity, hence I think it would be  a useful tool for them. It will serve to introduce them using data-base program. 
+This program will book reservations in an event hall divided in two sections: “Exterior con alberca” and “Interior”. The purpose of the program is to save in a ‘.txt’ file the reservation's data: date, client profile and extra services. There is going be and option to save information depending on client's reserved location
  
 
 ### How i implemante the code❓
 
-   There are three main options of code:
+   There program will have the next functionalities:
  
 1. Add dates reserved
-     -The code asks which site is going to be used and request information of the event (client’s name, date and hired services). If the registered date was already booked, the code rejects the information added and respond with a text explaining that day is already reserved.
+     -The code asks which section is going to be used and request information of the event (client’s name, date and hired services). If the registered date was already booked, the code would reject  the information added and return a text explaining that day is already reserved.
 
 2. Consult dates reserved
-     -The code needs at least one event registered within each category to active this function. The code is going to give a list of all the events reserved depending on the site required.
+     -The program needs at least one event registered within each category to enable this function. The program is going to give a list of all the events reserved depending on the site required.
 
 3. Eliminate dates reserved
-     -The "date" list is used for this function. If an event is cancelled or the client did not pay on time, it can be possible to eliminate a booked date. This function would ask for the specific line referred to the event to eliminate it. 
+     -The "date" list is used for this function. If an event is cancelled or the client do not pay on time, the program enables the option to eliminate a booked date. This function would ask for the specific line referred to the event going to removed it.
 
 ## Youtube link :film_strip:
 -[YoutubeVideo](https://www.youtube.com/watch?v=9L2XGn1fh5o)
