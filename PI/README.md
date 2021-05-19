@@ -19,6 +19,9 @@ A close saloon and an exterior with a pool
  -https://onlinegdb.com/TGaqJMNMX
 
 # User Interface
+  -Reserving date at 'Exterior'
+![image](https://user-images.githubusercontent.com/78566347/118740608-e9b77000-b811-11eb-970e-e29b35ac1845.png)
+  -Reserving date at 'Interior'
 
   
   # References
