@@ -48,6 +48,10 @@ This program will book reservations in an event hall divided in two sections: â€
   ![image](https://user-images.githubusercontent.com/78566347/118746234-74ea3300-b81d-11eb-8f2f-afa7737c37a1.png)
 
 
+**-Option '4' to leave the sistem**
+
+
+![image](https://user-images.githubusercontent.com/78566347/118844128-540ef580-b890-11eb-8c5a-fa8c9798ed46.png)
 
   
   # References ðŸ“‹
