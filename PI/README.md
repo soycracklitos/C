@@ -17,7 +17,7 @@ This program will book reservations in an event hall divided in two sections: â€
 3. Eliminate dates reserved
      -The "date" list is used for this function. If an event is cancelled or the client do not pay on time, the program enables the option to eliminate a booked date. This function would ask for the specific line referred to the event going to removed it.
 
-## Instructions for the code
+## Instructions for the code ðŸ“Œ
 
 1. Create files 'Exterior.txt' and 'Interior.txt' : (The program is able to create them, but i do not found the problem)
 2. Register an event on each location to watch the catalogue of reserved events
