@@ -10,13 +10,13 @@ I have decided as Integrator Product, I would a create a code for the family bus
    There are three main options of code:
  
 1. Add dates reserved
-The code asks which site is going to be use and request information of the event (client name, date and hired services). If a date received was already booked, the code rejects the information added and it would be a text explaining that day is already reserved.
+     -The code asks which site is going to be use and request information of the event (client name, date and hired services). If a date received was already booked, the code rejects the information added and it would be a text explaining that day is already reserved.
 
 2. Consult dates reserved
-The code needs one event on each archive to active this function. The code is going to give a list of all the events reserved depending on the site required.
+     -The code needs one event on each archive to active this function. The code is going to give a list of all the events reserved depending on the site required.
 
 3. Eliminate dates reserved
-With the list of dates reserved works this function. If an event is cancelled or the client did not pay at time, it can be possible to eliminate a booked date. This function would ask for specific line where is situated the event to eliminate it. 
+     -With the list of dates reserved works this function. If an event is cancelled or the client did not pay at time, it can be possible to eliminate a booked date. This function would ask for specific line where is situated the event to eliminate it. 
 
 ## Youtube link :film_strip:
 
