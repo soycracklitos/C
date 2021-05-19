@@ -19,13 +19,10 @@ This program will book reservations in an event hall divided in two sections: â€
 
 ## Instructions for the code
 
-
-
-
-
-### Libraries used
-![image](https://user-images.githubusercontent.com/78566347/118844325-7b65c280-b890-11eb-9922-5d30c52b3363.png)
-
+1. Create files 'Exterior.txt' and 'Interior.txt' : (The program is able to create them, but i do not found the problem)
+2. Register an event on each location to watch the catalogue of reserved events
+3. Use _ as space if you want to add a name as 'Fiesta_de_Jose'
+4. You can add two events in the same date, just if the locations are different. If you try to add an event at the same location and times, the program would reject the information (that is the main purpose of the code)
 
 
 ## Youtube link :film_strip:
