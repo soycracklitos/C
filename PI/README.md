@@ -15,7 +15,7 @@ This code is going to be used for an event hall divided in two sections: “Exte
      -The code needs at least one event registered within each category to active this function. The code is going to give a list of all the events reserved depending on the site required.
 
 3. Eliminate dates reserved
-     -The "date" list is used for this function. If an event is cancelled or the client did not pay on time, it can be possible to eliminate a booked date. This function would ask for the specific line referred to the event eliminate it. 
+     -The "date" list is used for this function. If an event is cancelled or the client did not pay on time, it can be possible to eliminate a booked date. This function would ask for the specific line referred to the event to eliminate it. 
 
 ## Youtube link :film_strip:
 
