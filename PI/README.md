@@ -63,6 +63,7 @@ This program will book reservations in an event hall divided in two sections: �
 
   
   # References 📋
+  -[C Reference Card ANSI](http://users.ece.utexas.edu/~adnan/c-refcard.pdf)
   
   # Author 🙍‍♂️
   
