@@ -28,6 +28,11 @@ This code is going to be used for an event hall divided in two sections: “Exte
 
 ![image](https://user-images.githubusercontent.com/78566347/118746052-18871380-b81d-11eb-927b-207d51f4f18d.png)
 
+**-Option '1' to consult dates reserved**
+
+![image](https://user-images.githubusercontent.com/78566347/118755972-8805fe80-b82f-11eb-842a-c3206eb39913.png)
+
+
 
 **-Option '2' to add an event**
 
