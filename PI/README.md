@@ -1,19 +1,22 @@
-#                                        🟨Agenda de Eventos San Jorge🟦
+#  🟨Agenda de Eventos San Jorge🟦
 
 
 
-#### What is the purpose of the code?
-
-- My family has a ballroom, so i've decided to create a code to book events with the knowledge of the course. The place has two areas to celebrate parties.
-A close saloon and an exterior with a pool
+I have decided as Integrator Product, I would a create a code for the family business. My parents do not use technology for been more productive, so I think this is a good gift to them, also to introduce them to use this type of programs. This code is going to be use in a ballroom event divided in two sections: "Exterior para evento o alberca" or “Interior”. The purpose of the code is to save in ‘txt’ archives reserved dates adding basic information of the client and hired services.  There is going be and option to save information depending on the site that it is hired. 
 
 
-  - The main idea is:
-    -  Reserve dates  
-    -  View dates reserved
-    -  Eli
 
-#### How i implemante the code❓
+### How i implemante the code❓
+   There are three main options of code:
+ 
+1. Add dates reserved
+The code asks which site is going to be use and request information of the event (client name, date and hired services). If a date received was already booked, the code rejects the information added and it would be a text explaining that day is already reserved.
+
+2. Consult dates reserved
+The code needs one event on each archive to active this function. The code is going to give a list of all the events reserved depending on the site required.
+
+3. Eliminate dates reserved
+With the list of dates reserved works this function. If an event is cancelled or the client did not pay at time, it can be possible to eliminate a booked date. This function would ask for specific line where is situated the event to eliminate it. 
 
 ## Youtube link :film_strip:
 
