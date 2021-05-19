@@ -1,22 +1,21 @@
 #  🟨Agenda de Eventos San Jorge🟦
 
-
-
-I have decided as Integrator Product, I would a create a code for the family business. My parents do not use technology for been more productive, so I think this is a good gift to them, also to introduce them to use this type of programs. This code is going to be use in a ballroom event divided in two sections: "Exterior para evento o alberca" or “Interior”. The purpose of the code is to save in ‘txt’ archives reserved dates adding basic information of the client and hired services.  There is going be and option to save information depending on the site that it is hired. 
-
-
+As my Final Assignment, I have decided to create a code for the family business. My parents do not use technology to improve their productivity, so I think this is a good gift to them, as well as to introduce them to use this type of programs. 
+This code is going to be used for an event hall divided in two sections: “Exterior con alberca” and “Interior”. The purpose of the code is to save in a ‘.txt’ file data such as the reservation date, client profile and hired services. There is going be and option to save information depending on which zone the event will take place.
+ 
 
 ### How i implemante the code❓
+
    There are three main options of code:
  
 1. Add dates reserved
-     -The code asks which site is going to be use and request information of the event (client name, date and hired services). If a date received was already booked, the code rejects the information added and it would be a text explaining that day is already reserved.
+     -The code asks which site is going to be used and request information of the event (client’s name, date and hired services). If the registered date was already booked, the code rejects the information added and respond with a text explaining that day is already reserved.
 
 2. Consult dates reserved
-     -The code needs one event on each archive to active this function. The code is going to give a list of all the events reserved depending on the site required.
+     -The code needs at least one event registered within each category to active this function. The code is going to give a list of all the events reserved depending on the site required.
 
 3. Eliminate dates reserved
-     -With the list of dates reserved works this function. If an event is cancelled or the client did not pay at time, it can be possible to eliminate a booked date. This function would ask for specific line where is situated the event to eliminate it. 
+     -The "date" list is used for this function. If an event is cancelled or the client did not pay on time, it can be possible to eliminate a booked date. This function would ask for the specific line referred to the event eliminate it. 
 
 ## Youtube link :film_strip:
 
