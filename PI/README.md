@@ -63,11 +63,11 @@ This program will book reservations in an event hall divided in two sections: �
 
 # Self-assessment 🖋️
 
-1. Complexity =1 point (I think my programs was not difficult to do, but it was created with luv)
-2. Functionality = 2 points (My ferst demo worked better, but i add a function to verificate if a date was already reserved and then, it has some bugs. So i think 2 points is a good evaluation
-3. Program = 2 points (I think the dessign is unique, but not perfect)
-4. Storage = 1-2  (Same problem as functionality)
-5. README and Video = 2 points (I think my readme.md is good, but the video is a bit junk xd so i evaluated as 1.5 points good readme and 0.5 points youtube video)
+1. Complexity =1 (I think my programs was not difficult to do, but it was created with luv)
+2. Functionality =2 (My ferst demo worked better, but i add a function to verificate if a date was already reserved and then, it has some bugs. So i think 2 points is a good evaluation
+3. Code =2 (I think the dessign is unique, but not perfect)
+4. Storage =1-2 (Same problem as functionality)
+5. Documentation =2 (I think my readme.md is good, but the video is a bit junk xd so i evaluated as 1.5 points good readme and 0.5 points youtube video)
 
 **FINAL GRADE = 9-10 POINTS**
 
