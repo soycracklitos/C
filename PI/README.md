@@ -61,6 +61,15 @@ This program will book reservations in an event hall divided in two sections: �
 
 ![image](https://user-images.githubusercontent.com/78566347/118844128-540ef580-b890-11eb-8c5a-fa8c9798ed46.png)
 
+# Self-assessment 🖋️
+
+1. Complexity =1 point (I think my programs was not difficult to do, but it was created with luv)
+2. Functionality = 2 points (My ferst demo worked better, but i add a function to verificate if a date was already reserved and then, it has some bugs. So i think 2 points is a good evaluation
+3. Program = 2 points (I think the dessign is unique, but not perfect)
+4. Storage = 1-2  (Same problem as functionality)
+5. README nad Video = 2 points (I think my readme.md is good, but the video is a bit junk xd so i evaluated as 1.5 points good readme and 0.5 points youtube video)
+
+
   
   # References 📋
   -[C Reference Card (ANSI)](http://users.ece.utexas.edu/~adnan/c-refcard.pdf)
