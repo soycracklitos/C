@@ -69,6 +69,8 @@ This program will book reservations in an event hall divided in two sections: â€
 4. Storage = 1-2  (Same problem as functionality)
 5. README and Video = 2 points (I think my readme.md is good, but the video is a bit junk xd so i evaluated as 1.5 points good readme and 0.5 points youtube video)
 
+**FINAL GRADE = 9-10 POINTS**
+
 
   
   # References ðŸ“‹
