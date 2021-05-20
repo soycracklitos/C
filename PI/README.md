@@ -63,13 +63,13 @@ This program will book reservations in an event hall divided in two sections: �
 
 # Self-assessment 🖋️
 
-1. Complexity =1 (I think my programs was not difficult to do, but it was created with luv)
+1. Complexity =1 (I think my programs was not difficult to do, we can copare it with hw 7, so i think one point is good)
 2. Functionality =2 (My ferst demo worked better, but i add a function to verificate if a date was already reserved and then, it has some bugs. So i think 2 points is a good evaluation
-3. Code =2 (I think the dessign is unique, but not perfect)
-4. Storage =1-2 (Same problem as functionality)
+3. Code =2 (The design of code is ok, but i dont put specific comments (only in readme) so i think one point ok)
+4. Storage =1 (Since i add the function to verificate dates reserved before, the files .txt dont create automatically, i need to do it manual. If this function worked correct, probably 2 points would be a good evaluation, but the purpose of my code is to do it automatically, so gg) 
 5. Documentation =2 (I think my readme.md is good, but the video is a bit junk xd so i evaluated as 1.5 points good readme and 0.5 points youtube video)
 
-**FINAL GRADE = 9-10 POINTS**
+**FINAL GRADE = 8 POINTS**
 
 
   
